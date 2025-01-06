@@ -1,0 +1,27 @@
+gymnasium==0.28.1
+pandas==2.0.1
+plotly
+safetensors==0.3.1
+datasets==2.10.1
+sentencepiece
+transformers
+accelerate==0.20.3
+triton==2.0.0
+texttable
+toml
+numpy
+protobuf==3.20.2
+guidance==0.0.63 # Do not update to 0.0.64, it breaks non OpenAI LLMs
+statsmodels==0.14.0
+git+https://github.com/PanQiWei/AutoGPTQ.git@refs/pull/175/head
+einops==0.6.1
+stable-baselines3==2.0.0
+stable-baselines3[extra]==2.0.0
+wandb
+ninja==1.11.1
+git+https://github.com/jllllll/exllama
+sentence_transformers==2.2.2
+python-dotenv==1.0.0
+sb3-contrib==2.0.0
+scikit-surprise
+tabulate

@@ -1,0 +1,1 @@
+nohup python -m algorithms.yelp.CF_train_DQN > output_DQN.txt
